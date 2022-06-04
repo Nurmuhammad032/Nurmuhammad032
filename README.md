@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<hr>
+I'm a student in Astrum which is situated in Uzbekistan. I have been learning Frontend since December. <br> I always use Qwasar platform to learn Frontend Engineerin
 
 <!--
 **Nurmuhammad032/Nurmuhammad032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
