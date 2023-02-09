@@ -1,6 +1,23 @@
 ### Hi there 👋
 <hr>
-I'm a student in Astrum which is situated in Uzbekistan. I have been learning Frontend since December (2021). <br> I always use Qwasar platform to learn Frontend Engineering!
+I am Nurmuhammad, a frontend developer with a passion for coding. I have been learning frontend development since November 2021 and have gained experience creating both pet projects and real projects.
+
+Technical Skills:
+
+Javascript
+React.js
+HTML/CSS
+TypeScript
+Next.js
+Git/Github
+Bootstrap/Tailwind
+Sass
+Redux/Redux Toolkit
+Language Skills:
+
+Uzbek (Native)
+English (Intermediate)
+
 
 <!--
 **Nurmuhammad032/Nurmuhammad032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
