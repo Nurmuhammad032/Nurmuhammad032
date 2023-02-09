@@ -1,23 +1,24 @@
 ### Hi there 👋
 <hr>
-I am Nurmuhammad, a frontend developer with a passion for coding. I have been learning frontend development since November 2021 and have gained experience creating both pet projects and real projects.
+I am Nurmuhammad, a frontend developer with a passion for coding. I have been learning frontend development <br> since November 2021 and have gained experience creating both pet projects and real projects.
 
-Technical Skills:
+Technical Skills: <br>  <br>
 
-Javascript
-React.js
-HTML/CSS
-TypeScript
-Next.js
-Git/Github
-Bootstrap/Tailwind
-Sass
-Redux/Redux Toolkit
-Language Skills:
+Javascript <br>
+React.js <br>
+HTML/CSS <br>
+TypeScript <br>
+Next.js <br>
+Git/Github <br>
+Bootstrap/Tailwind <br>
+Sass <br>
+Redux/Redux Toolkit <br>  <br>
+Language: <br>
 
-Uzbek (Native)
-English (Intermediate)
+Uzbek (Native) <br>
+English (Intermediate) <br> <br>
 
+My love for coding and my job shines through in my projects, which demonstrate my ability to turn ideas into reality. I am a driven individual who is eager to continue learning and growing my skills.
 
 <!--
 **Nurmuhammad032/Nurmuhammad032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
