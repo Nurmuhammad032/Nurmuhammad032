@@ -1,6 +1,6 @@
 ### Hi there 👋
 <hr>
-I am Nurmuhammad, a frontend developer with a passion for coding. I have been learning frontend development <br> since November 2021 and have gained experience creating both pet projects and real projects.
+I am Nurmuhammad, a frontend developer with a passion for coding. I have been learning frontend development <br> since November 2021 and have gained experience creating both pet projects and real projects.  <br>  <br>
 
 Technical Skills: <br>  <br>
 
