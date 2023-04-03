@@ -16,9 +16,7 @@ Redux/Redux Toolkit <br>  <br>
 Language: <br>
 
 Uzbek (Native) <br>
-English (Intermediate) <br> <br>
-
-My love for coding and my job shines through in my projects, which demonstrate my ability to turn ideas into reality. I am a driven individual who is eager to continue learning and growing my skills.
+English (Intermediate)
 
 <!--
 **Nurmuhammad032/Nurmuhammad032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
