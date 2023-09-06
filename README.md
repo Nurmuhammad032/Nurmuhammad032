@@ -1,19 +1,6 @@
 ### Hi there 👋
 <hr>
-I am Nurmuhammad, a frontend developer with a passion for coding. I have been learning frontend development <br> since November 2021 and have gained experience creating both pet projects and real projects.  <br>  <br>
-
-Technical Skills: <br> 
-
-Javascript <br>
-React.js <br>
-HTML/CSS <br>
-TypeScript <br>
-Next.js <br>
-Git/Github <br>
-Bootstrap/Tailwind <br>
-Sass <br>
-Redux/Redux Toolkit <br>  <br>
-Language: <br>
+I embarked on my journey in the IT industry in 2022, and since then, I've been passionate about frontend web development. <br> My heart belongs to React.js, as I find joy in crafting dynamic and engaging user experiences
 
 Uzbek (Native) <br>
 English (Intermediate)
