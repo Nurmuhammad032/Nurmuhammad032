@@ -1,9 +1,7 @@
 ### Hi there 👋
 <hr>
-I embarked on my journey in the IT industry in 2022, and since then, I've been passionate about frontend web development. <br> My heart belongs to React.js, as I find joy in crafting dynamic and engaging user experiences
+I embarked on my journey in the IT industry in 2022, and since then, I've been passionate about frontend web development. <br> <br> My heart belongs to React.js, as I find joy in crafting dynamic and engaging user experiences
 
-Uzbek (Native) <br>
-English (Intermediate)
 
 <!--
 **Nurmuhammad032/Nurmuhammad032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
